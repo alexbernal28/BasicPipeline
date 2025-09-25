@@ -1,5 +1,4 @@
-﻿using BasicPipeline.Enums;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace BasicPipeline.Classes
 {
