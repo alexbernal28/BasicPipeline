@@ -1,7 +1,7 @@
 ﻿using BasicPipeline.Classes;
 using Microsoft.EntityFrameworkCore;
 
-namespace BasicPipeline.Data
+namespace BasicPipeline.Context
 {
     public class AppDbContext : DbContext
     {
